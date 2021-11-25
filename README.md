@@ -2,7 +2,7 @@
 
 Hi, I'm wandry! I'm a web developer that hate the web 😕.
 
-- 🤹 Networking 👉 <a href="https://www.linkedin.com/in/wandryoscarsantanamartinez">LinkedIn</a>
+- 🤹 Networking 👉 <a href="https://www.linkedin.com/in/wandryoscarsantanamartinez" target="_blank">LinkedIn</a>
 - 💻 Collaborating on some open-source projects
 - 📱 Building my personal brand :)
 - 📚 Reading some books
