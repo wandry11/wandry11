@@ -2,11 +2,13 @@
 
 Hi, I'm wandry! I'm a web developer that hate the web 😕.
 
-- 🤹 Networking 👉 <a href="https://www.linkedin.com/in/wandryoscarsantanamartinez" target="_blank">LinkedIn</a>
-- 💻 Collaborating on some open-source projects
-- 📱 Building my personal brand :)
-- 📚 Reading some books
-- 💡 Spending my time in be creative
+- 🤹 Networks 👉 <a href="https://www.linkedin.com/in/wandryoscarsantanamartinez" target="_blank"> LinkedIn </a>
+- 💻 Collaborate on some open source projects
+- 📱 Building my personal brand🧐
+- 📚 Read some books
+- 💡 Devote my time to be creative in my projects
+- 😏 My name is Wandry but you can call me whatever you want.
+- 😌Contact me: wandry.oscar@gmail.com or Wandrysantana11@outlook.com
 
 ***
 <p align="center">
