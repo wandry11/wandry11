@@ -2,9 +2,9 @@
 
 Hi, I'm wandry! I'm a web developer that hate the web 😕.
 
-- 🤹 Networks 👉 <a href="https://www.linkedin.com/in/wandryoscarsantanamartinez" target="_blank"> LinkedIn </a>
+- 🤹 Networks 👉 <a href="https://www.linkedin.com/in/wandryoscarsantanamartinez" target="popup" onclick="window.open('{{url}}','popup','width=600,height=600'); return false;"> LinkedIn </a>
 - 💻 Collaborate on some open source projects
-- 📱 Building my personal brand🧐
+- 📱 Building my personal brand🧑🏼‍💻
 - 📚 Read some books
 - 💡 Devote my time to be creative in my projects
 - 😏 My name is Wandry but you can call me whatever you want.
