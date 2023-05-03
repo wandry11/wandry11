@@ -24,5 +24,4 @@ Hi, I'm wandry! I'm a web developer that hate the web 😕.
 I'm a guy passionate for the technology, honest and a self-taught Front-End Developer. I consider myself as a person with initiative, who loves to take on new responsibilities, learning new things and face great challanges. I have 2 years of experience in the web industry.
 
 <a href="https://wakatime.com/@84d7010c-6ca4-406e-9a12-cca7ce795989"><img src="https://wakatime.com/badge/user/84d7010c-6ca4-406e-9a12-cca7ce795989.svg" alt="Total time coded since Sep 20 2021" /></a>
-
-[![wakatime](https://wakatime.com/badge/user/84d7010c-6ca4-406e-9a12-cca7ce795989/project/9192eabb-c831-4609-9dfc-bf5a5c1fa27d.svg)](https://wakatime.com/badge/user/84d7010c-6ca4-406e-9a12-cca7ce795989/project/9192eabb-c831-4609-9dfc-bf5a5c1fa27d)
+[![github](https://img.shields.io/github/followers/alanhamlett?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
