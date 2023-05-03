@@ -25,3 +25,5 @@ I'm a guy passionate for the technology, honest and a self-taught Front-End Deve
 
 <a href="https://wakatime.com/@84d7010c-6ca4-406e-9a12-cca7ce795989"><img src="https://wakatime.com/badge/user/84d7010c-6ca4-406e-9a12-cca7ce795989.svg" alt="Total time coded since Sep 20 2021" /></a>
 [![github](https://img.shields.io/github/followers/alanhamlett?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
+
+  Hard Work Big Dreams my Type😕
