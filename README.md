@@ -25,9 +25,4 @@ I'm a guy passionate for the technology, honest and a self-taught Front-End Deve
 
 <a href="https://wakatime.com/@84d7010c-6ca4-406e-9a12-cca7ce795989"><img src="https://wakatime.com/badge/user/84d7010c-6ca4-406e-9a12-cca7ce795989.svg" alt="Total time coded since Sep 20 2021" /></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WandryMartinez&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WandryMartinez&repo=convoychat" />
-</a>
+[![wakatime](https://wakatime.com/badge/user/84d7010c-6ca4-406e-9a12-cca7ce795989/project/9192eabb-c831-4609-9dfc-bf5a5c1fa27d.svg)](https://wakatime.com/badge/user/84d7010c-6ca4-406e-9a12-cca7ce795989/project/9192eabb-c831-4609-9dfc-bf5a5c1fa27d)
