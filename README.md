@@ -16,7 +16,7 @@ Hi, I'm wandry! I'm a web developer that hate the web 😕.
 <p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WandryMartinez&show_icons=true&hide_border=true&count_private=true&layout=compact" alt="Stats" width="440">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WandryMartinez&show_icons=true&hide_border=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&layout=compact" alt="Stats" width="440">
 <p>
 <p>
 ### About Me
