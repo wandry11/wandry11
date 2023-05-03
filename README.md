@@ -27,3 +27,5 @@ I'm a guy passionate for the technology, honest and a self-taught Front-End Deve
 [![github](https://img.shields.io/github/followers/alanhamlett?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
 
   Hard Work Big Dreams my Type😕
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wandry11&theme=dark)](https://git.io/streak-stats)
