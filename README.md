@@ -1,5 +1,21 @@
-# Front End / Web Developer. 
-Hi, I'm wandry! I'm a web developer that hate the web 😕.
+<h1>Hi 👋 My name is Wandry Martinez</h1>
+
+`I'm a web developer that hate the web.`
+
+Front-End / Web Developer
+-------------------------
+> Hard Work Big Dreams, I Love it.
+
+I'm a guy passionate about technology, honest, and self-taught. I consider myself a person with initiative, who loves to take on new responsibilities, learn new things, and face great challenges. I have 3 years of experience in the web industry.
+
+- 🤹 Networks 👉 <a href="https://www.linkedin.com/in/wandryoscarsantanamartinez" target="popup" onclick="window.open('{{url}}','popup','width=600,height=600'); return false;"> LinkedIn </a>
+- 💻 Collaborate on some open source projects
+- 📱  Building my personal brand🧑🏼‍💻
+- 📚  Read some books
+- 💡  Devote my time to be creative in my projects
+- 😏 My name is Wandry but you can call me whatever you want.
+- ✉️ Contact me: wandry.oscar@gmail.com or Wandrysantana11@outlook.com
+
 <p align="left" >
    <a href="https://wakatime.com/@84d7010c-6ca4-406e-9a12-cca7ce795989">
        <img src="https://wakatime.com/badge/user/84d7010c-6ca4-406e-9a12-cca7ce795989.svg" alt="Total time coded since Sep 20 2021" />
@@ -11,14 +27,6 @@ Hi, I'm wandry! I'm a web developer that hate the web 😕.
        <img src="https://img.shields.io/github/followers/wandry11?logo=github&style=plastic" alt="wandry11" />
   </a>
 </p>
-
-- 🤹 Networks 👉 <a href="https://www.linkedin.com/in/wandryoscarsantanamartinez" target="popup" onclick="window.open('{{url}}','popup','width=600,height=600'); return false;"> LinkedIn </a>
-- 💻 Collaborate on some open source projects
-- 📱 Building my personal brand🧑🏼‍💻
-- 📚 Read some books
-- 💡 Devote my time to be creative in my projects
-- 😏 My name is Wandry but you can call me whatever you want.
-- 😌Contact me: wandry.oscar@gmail.com or Wandrysantana11@outlook.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
