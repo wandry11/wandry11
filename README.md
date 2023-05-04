@@ -68,6 +68,9 @@ I'm a guy passionate about technology, honest, and self-taught. I consider mysel
       <code><img height="20" alt="typescript" src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg"></code>
 </p>
 
+<h3 align="left">Badges</h3>
+
+<b>My GitHub Stats</b>
 
 <div width="100%">
   <a href="http://www.github.com/wandry11">
