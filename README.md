@@ -18,13 +18,13 @@ I'm a guy passionate about technology, honest, and self-taught. I consider mysel
 
 <p align="left" >
    <a href="https://wakatime.com/@84d7010c-6ca4-406e-9a12-cca7ce795989">
-       <img src="https://wakatime.com/badge/user/84d7010c-6ca4-406e-9a12-cca7ce795989.svg" alt="Total time coded since Sep 20 2021" />
+       <img src="https://wakatime.com/badge/user/84d7010c-6ca4-406e-9a12-cca7ce795989.svg?&style=for-the-badge&labelColor=1c1917" alt="Total time coded since Sep 20 2021" />
   </a>
    <a href="https://github.com/wandry11">
-       <img src="https://komarev.com/ghpvc/?username=wandry11&label=Profile%20views&color=0e75b6&style=flat" alt="wandry11" />
+       <img src="https://komarev.com/ghpvc/?username=wandry11&label=Profile%20views&logo=github&style=for-the-badge&labelColor=1c1917" alt="wandry11" />
   </a>
-   <a href="https://github.com/wandry11?tab=followers">
-       <img src="https://img.shields.io/github/followers/wandry11?logo=github&style=plastic" alt="wandry11" />
+   <a href="https://github.com/wandry11">
+       <img src="https://img.shields.io/github/followers/wandry11?logo=github&style=for-the-badge" alt="wandry11" />
   </a>
 </p>
 
