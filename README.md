@@ -67,23 +67,29 @@ I'm a guy passionate about technology, honest, and self-taught. I consider mysel
     <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
       <code><img height="20" alt="typescript" src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg"></code>
 </p>
-
 <p align="">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=wandry11&show_icons=true&hide_border=false&count_private=true&theme=dark"
-    alt="Stats"
-    width="440" />
-   <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=Wandry11&show_icons=true&hide_border=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&layout=compact"
-    alt="Stats"
-    width="440" />
+   <a href="http://www.github.com/wandry11">
+     <img
+       src="https://github-readme-stats.vercel.app/api?username=wandry11&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
+       alt="wandry11's GitHub stats" />
+   </a>
+
+   <a href="http://www.github.com/wandry11">
+     <img
+       src="https://github-readme-streak-stats.herokuapp.com/?user=wandry11&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+   </a>
 </p>
 
 
  <a href="https://wakatime.com/@84d7010c-6ca4-406e-9a12-cca7ce795989">
-       <img src="https://github-readme-streak-stats.herokuapp.com?user=wandry11&theme=highcontrast" alt="wandry11" />
+       <img
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=Wandry11&show_icons=true&hide_border=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&layout=compact"
+    alt="Stats"
+    width="440" />
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandry11&layout=compact&theme=vision-friendly-dark" alt="wandry11" />
   </a>
+
+  
 
 
 
