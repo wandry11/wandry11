@@ -143,7 +143,7 @@ I'm a guy passionate about technology, honest, and self-taught. I consider mysel
   </a>
 </div>
 
-<i>Loved the project? Please consider [donating](https://paypal.me/abhisheknaiidu) to help it improve!</i>
+<i>Loved the project? Please consider [donating](https://paypal.me/wshopofficiall) to help it improve!</i>
 
 </div>
 
