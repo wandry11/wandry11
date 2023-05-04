@@ -67,52 +67,46 @@ I'm a guy passionate about technology, honest, and self-taught. I consider mysel
     <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
       <code><img height="20" alt="typescript" src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg"></code>
 </p>
-<p align="">
-   <a href="http://www.github.com/wandry11">
-     <img
-       src="https://github-readme-stats.vercel.app/api?username=wandry11&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
-       alt="wandry11's GitHub stats" width="440" />
-          <img
-       src="https://github-readme-streak-stats.herokuapp.com/?user=wandry11&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="440"/>
-   </a>
-</p>
 
- <a href="https://wakatime.com/@84d7010c-6ca4-406e-9a12-cca7ce795989">
-       <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=Wandry11&show_icons=true&hide_border=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&layout=compact"
-    alt="Stats"
-    width="440" />
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandry11&layout=compact&theme=vision-friendly-dark" alt="wandry11" />
+
+<div width="100%">
+  <a href="http://www.github.com/wandry11">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=wandry11&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
+      alt="wandry11's GitHub stats"
+      align="left"
+      width="45%"
+      title="wandry11's GitHub stats" />
   </a>
+  <a href="http://www.github.com/wandry11">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=wandry11&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
+      width="50%"
+      title="wandry11's GitHub stats"/>
+  </a>
+</div>
+<div width="100%">
+  <a href="https://github.com/wandry11">
+    <img
+      align="left"
+      width="45%"
+       title="Top Languages" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=wandry11&repo=wandry11&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/wandry11">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandry11&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
+      alt="Top Languages"
+      title="Top Languages"
+      width="30%" />
+  </a>
+</div>
 
-  
+ <br /><br /><br /><br /><br />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h1 align="center">Thanks for visiting my github profile 😊
+<h2 align="center">Thanks for visiting my github profile 😊
     <a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles"></a>
-</h1>
+</h2>
 <div align="center">
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"
         alt="Awesome Badge" />
@@ -132,11 +126,11 @@ I'm a guy passionate about technology, honest, and self-taught. I consider mysel
 
 <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 
-<p align="center" >
-  <a href="https://github.com/ryo-ma/github-profile-trophy" width="100" margin-top="10">
-    <img src="https://github-profile-trophy.vercel.app/?username=wandry11" alt="wandry11"/>
+<div width="100%" align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" width="100%" margin-top="10%">
+    <img src="https://github-profile-trophy.vercel.app/?username=wandry11" alt="wandry11" title="Records"/>
   </a>
-</p>
+</div>
 
 <i>Loved the project? Please consider [donating](https://paypal.me/abhisheknaiidu) to help it improve!</i>
 
