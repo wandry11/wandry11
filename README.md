@@ -2,8 +2,8 @@
 
 `I'm a web developer that hate the web.`
 
-Front-End / Web Developer
--------------------------
+<h2 align="left">Front-End / Web Developer</h2>
+
 > Hard Work Big Dreams, I Love it.
 
 I'm a guy passionate about technology, honest, and self-taught. I consider myself a person with initiative, who loves to take on new responsibilities, learn new things, and face great challenges. I have 3 years of experience in the web industry.
@@ -32,7 +32,9 @@ I'm a guy passionate about technology, honest, and self-taught. I consider mysel
 <p align="left">
   <a
     href="https://linkedin.com/in/https://www.linkedin.com/in/wandryoscarsantanamartinez"
-    target="blank">
+    target="blank"
+     title="Linkeding"
+   >
      <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -40,7 +42,7 @@ I'm a guy passionate about technology, honest, and self-taught. I consider mysel
       height="20"
       width="30"/>
    </a>
-  <a href="https://instagram.com/wandry_martz" target="blank">
+  <a href="https://instagram.com/wandry_martz" target="blank" title="Instagram">
      <img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
@@ -52,12 +54,18 @@ I'm a guy passionate about technology, honest, and self-taught. I consider mysel
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
+    <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"></code>
+   <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"></code>
+   <code><img height="25" alt="javascript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"></code>
+   <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"></code>
+   <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"></code>
+   <code><img height="25" alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
+   <code><img height="25" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+   <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+   <code><img height="25" alt="nodejs" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"></code>  
+    <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+    <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+      <code><img height="20" alt="typescript" src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg"></code>
 </p>
 
 <p align="">
