@@ -71,7 +71,7 @@ I'm a guy passionate about technology, honest, and self-taught. I consider mysel
    <a href="http://www.github.com/wandry11">
      <img
        src="https://github-readme-stats.vercel.app/api?username=wandry11&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
-       alt="wandry11's GitHub stats" />
+       alt="wandry11's GitHub stats" width="440" />
    </a>
 
    <a href="http://www.github.com/wandry11">
