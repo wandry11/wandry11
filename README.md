@@ -72,14 +72,10 @@ I'm a guy passionate about technology, honest, and self-taught. I consider mysel
      <img
        src="https://github-readme-stats.vercel.app/api?username=wandry11&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
        alt="wandry11's GitHub stats" width="440" />
-   </a>
-
-   <a href="http://www.github.com/wandry11">
-     <img
+          <img
        src="https://github-readme-streak-stats.herokuapp.com/?user=wandry11&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="440"/>
    </a>
 </p>
-
 
  <a href="https://wakatime.com/@84d7010c-6ca4-406e-9a12-cca7ce795989">
        <img
