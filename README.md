@@ -1,6 +1,6 @@
 <h1>Hi 👋 My name is Wandry Martinez</h1>
 
-`I'm a web developer that hate the web.`
+`I'm a web developer that hates the web, write me and hate the sleep with me!.`
 
 <h2 align="left">Front-End / Web Developer</h2>
 
