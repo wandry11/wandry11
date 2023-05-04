@@ -104,9 +104,16 @@ I'm a guy passionate about technology, honest, and self-taught. I consider mysel
       width="30%" />
   </a>
 </div>
+<br /><br />
+<h3 align="left">Write Me</h3>
 
- <br /><br /><br /><br /><br />
-
+<a href="https://www.buymeacoffee.com/wandryoscax">
+  <img
+    src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+    width="200"
+    title=""/>
+</a>
+ <br /><br /><br /><br />
 <h2 align="center">Thanks for visiting my github profile 😊
     <a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles"></a>
 </h2>
