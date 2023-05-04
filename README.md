@@ -76,7 +76,7 @@ I'm a guy passionate about technology, honest, and self-taught. I consider mysel
 
    <a href="http://www.github.com/wandry11">
      <img
-       src="https://github-readme-streak-stats.herokuapp.com/?user=wandry11&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+       src="https://github-readme-streak-stats.herokuapp.com/?user=wandry11&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="440"/>
    </a>
 </p>
 
