@@ -97,7 +97,7 @@ I'm a guy passionate about technology, honest, and self-taught. I consider mysel
       align="left"
       width="45%"
        title="Top Languages" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=wandry11&repo=wandry11&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+      src="https://github-readme-stats.vercel.app/api/pin/?username=wandry11&repo=portafolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/wandry11">
     <img
