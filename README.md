@@ -6,7 +6,23 @@
 
 > Hard Work Big Dreams, I Love it.
 
-I'm a guy passionate about technology, honest, and self-taught. I consider myself a person with initiative, who loves to take on new responsibilities, learn new things, and face great challenges. I have 3 years of experience in the web industry.
+Full Stack Engineer with over 4 years of experience developing robust, automated, and scalable technology solutions. I’m passionate about technology, continuous learning, and teamwork. I consider myself self-taught, proactive, and results-oriented, with the ability to take on big challenges and lead projects from start to finish.
+
+Throughout my career, I’ve worked across both frontend and backend, actively participating in the planning, development, deployment, and maintenance of complex systems. I also have experience leading technical teams, managing projects, and optimizing processes through automation and engineering best practices.
+
+⚙️ Core Strengths:
+
+Full Stack Development (React, Node.js, MongoDB, SQL, etc.)
+
+Process Automation and Continuous Deployment (CI/CD)
+
+Project Management and Technical Leadership
+
+Clear Communication and Effective Problem Solving Under Pressure
+
+My focus is on building high-quality software with solid, efficient solutions—always aiming to enhance user experience and system performance. I’m excited to collaborate with teams that value innovation, ownership, and continuous improvement.
+
+💬 Open to new challenges, connections, and opportunities where I can keep growing professionally while delivering real value.
 
 - 🤹 Networks 👉 <a href="https://www.linkedin.com/in/wandryoscarsantanamartinez" target="popup" onclick="window.open('{{url}}','popup','width=600,height=600'); return false;"> LinkedIn </a>
 - 💻 Collaborate on some open source projects
