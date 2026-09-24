@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Wandry%20Santana&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Fintech%20%E2%80%A2%20SaaS%20%E2%80%A2%20E-commerce&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Wandry%20Santana&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Fintech%20%E2%80%A2%20SaaS%20%E2%80%A2%20E-commerce&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/wandry11">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=640&lines=React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+NestJS+%E2%80%A2+Laravel;I+build+web+apps+end+to+end;Core+banking+integrations+%26+multi-tenant+SaaS;Open+to+remote+work+and+freelance+projects" alt="Typing SVG" />
