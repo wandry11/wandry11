@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/wandryoscarsantanamartinez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.upwork.com/freelancers/~01bacd8cd5c85459da"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/></a>
   <a href="mailto:wandrysantana11@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
-  <a href="https://wakatime.com/@wandry11"><img src="https://wakatime.com/badge/user/wandry11.svg?style=for-the-badge" alt="WakaTime"/></a>
+  <a href="https://wakatime.com/@wandry11"><img src="https://wakatime.com/badge/user/84d7010c-6ca4-406e-9a12-cca7ce795989.svg?style=for-the-badge" alt="WakaTime"/></a>
   <img src="https://komarev.com/ghpvc/?username=wandry11&style=for-the-badge&color=00c6ff&label=Profile+views" alt="Profile views"/>
 </p>
 
@@ -50,7 +50,7 @@ Full Stack Developer from **Santiago de los Caballeros, Dominican Republic 🇩�
 
 **Testing & E-commerce**
 
-<img src="https://skillicons.dev/icons?i=jest,shopify,wordpress,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=jest,wordpress,figma,vscode&theme=dark" />
 
 </div>
 
@@ -71,22 +71,24 @@ Full Stack Developer from **Santiago de los Caballeros, Dominican Republic 🇩�
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wandry11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandry11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wandry11&theme=tokyonight" width="100%"/>
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wandry11&theme=tokyonight" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wandry11&theme=tokyonight" />
 
 <img src="https://streak-stats.demolab.com?user=wandry11&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wandry11&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
 ---
 
-### ⏱️ Coding time (WakaTime)
+### ⏱️ Coding time
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=wandry11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<a href="https://wakatime.com/@wandry11"><img src="https://wakatime.com/badge/user/84d7010c-6ca4-406e-9a12-cca7ce795989.svg?style=for-the-badge" alt="Total time coded since tracking started"/></a>
+
+<sub>Tracked automatically with WakaTime</sub>
 
 </div>
 
