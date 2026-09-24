@@ -10,6 +10,7 @@
   <a href="https://www.linkedin.com/in/wandryoscarsantanamartinez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.upwork.com/freelancers/~01bacd8cd5c85459da"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/></a>
   <a href="mailto:wandrysantana11@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
+  <a href="https://wa.me/18295229600"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://wakatime.com/@wandry11"><img src="https://wakatime.com/badge/user/84d7010c-6ca4-406e-9a12-cca7ce795989.svg?style=for-the-badge" alt="WakaTime"/></a>
   <img src="https://komarev.com/ghpvc/?username=wandry11&style=for-the-badge&color=00c6ff&label=Profile+views" alt="Profile views"/>
 </p>
@@ -96,7 +97,9 @@ Full Stack Developer from **Santiago de los Caballeros, Dominican Republic 🇩�
 
 <div align="center">
 
-**💬 Have a project in mind? Let's build it.** 👉 [wandrysantana11@outlook.com](mailto:wandrysantana11@outlook.com)
+**💬 Have a project in mind? Let's build it.**
+
+📩 [wandrysantana11@outlook.com](mailto:wandrysantana11@outlook.com) · 📱 Call or WhatsApp: [+1 (829) 522-9600](https://wa.me/18295229600) · [+1 (829) 627-9600](https://wa.me/18296279600)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=110&section=footer" width="100%"/>
 
